@@ -20,7 +20,7 @@ The program then checks whether the chosen door contains the prize or a goat. If
 
 The simulation will be represented in a pie chart as seen below: 
 
-![pie chart of the outcome](piechartpng) 
+![pie chart of the outcome](piechart.png) 
 
 The results of the simulation may be counterintuitive: despite seeming to have a 50-50 chance of winning by staying or switching, switching doors actually gives the contestant a better chance of winning. 
 
